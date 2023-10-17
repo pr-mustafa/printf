@@ -23,7 +23,7 @@ here:
 		j = 13;
 		while (j >= 0)
 		{
-			if ((m[j].id[0] == format[i]) && m[j].id[1] == foormat[i + 1])
+			if ((m[j].id[0] == format[i]) && m[j].id[1] == format[i + 1])
 			{
 				len = len + m[j].f(args);
 				i = i + 2;

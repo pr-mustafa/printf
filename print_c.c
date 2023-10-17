@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 /**
  * printf_char - printf character
  * @val: argment

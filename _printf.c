@@ -1,7 +1,8 @@
 #include "main.h"
 /**
  * _printf - print acorden to foramt
- * format: format of argmeant
+ * @format: format of argmeant
+ * @...: argments
  * Return: len
  *
  */
